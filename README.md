@@ -3,18 +3,19 @@
 
 Ce projet regroupe plusieurs scripts Bash pour réaliser des diagnostics réseau.
 
-## Fonctionnalités
+Fonctionnalités
 
 - `ping_check.sh` : vérifie si la passerelle est accessible.
 - `port-scan.sh` : scanne les ports ouverts d'une machine cible.
 - `bandwidth-log.sh` : journalise la bande passante (à venir).
 - `network-tests.sh` : exécute les tests sur différentes machines (à venir).
 
-## Auteurs
-- Marie
-- Guy
-- Ngalanou
-- [Ajouter les autres membres]
+Auteurs
+- Napetchou Marie Therance
+- Baana Mengue Dominique Guylaine
+- Ngalanou Stella 
+- Ahmadou Aba'a
+- Tchassem Edwin
 
 ## Utilisation
 
